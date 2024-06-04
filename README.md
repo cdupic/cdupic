@@ -25,25 +25,31 @@ ___
 
 ___
 
+### ⭐ Projects
+
+<details>
+  <summary> Click to expand</summary>
+
+## [connected greenhouse](https://mygrowbox.fr/) 🌳
+Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
+
+## [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
+Project during an internship to optimize a self-service at a Dassault Factory using [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel).
+
+</p>
+</details>
+
+
+___
+
 ## Statistics GitHub
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&locale=en" alt="cdupic" /></p>
 
 ___
 
-<details>
-  <summary>⭐ Projects</summary>
-
-### [Libre service Dassault](https://github.com/cdupic/libre-service-Dassault)
-<p align="justify">
-  Projet pour optimiser le libre service de Dassault avec openpyxl
-</p>
-</details>
-
-___
 
 ## Contact me
-
 <p align="left">
    <a href="mailto:clement.dupic@insa-lyon.fr">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white">
