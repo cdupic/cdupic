@@ -8,7 +8,7 @@
 
 ## Projets
 
-### [Libre service Dassault](https://github.com/votrecompte/projet1](https://github.com/cdupic/libre-service-Dassault))
+### [Libre service Dassault](https://github.com/cdupic/libre-service-Dassault)
 <p align="justify">
   Projet pour optimiser le libre service de Dassault avec openpyxl
 </p>
