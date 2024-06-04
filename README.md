@@ -30,10 +30,13 @@ ___
 <details>
   <summary> Click to expand</summary>
 
-## [connected greenhouse](https://mygrowbox.fr/) 🌳
+# [connected greenhouse](https://mygrowbox.fr/) 🌳
 Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
 
-## [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
+# [currency conversion app](https://github.com/cdupic/suivi-depenses) 💱
+App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
+
+# [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
 Project during an internship to optimize a self-service at a Dassault Factory using [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel).
 
 </p>
