@@ -13,13 +13,15 @@
   Projet pour optimiser le libre service de Dassault avec openpyxl
 </p>
 
-## Statistiques GitHub
+## Languages used
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+## Statistics GitHub
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&locale=en" alt="cdupic" /></p>
 
-## Contactez-moi
+## Contact me 
 
 <p align="center">
    <a href="mailto:clement.dupic@insa-lyon.fr">
