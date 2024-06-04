@@ -30,13 +30,13 @@ ___
 <details>
   <summary> Click to expand</summary>
 
-# [connected greenhouse](https://mygrowbox.fr/) 🌳
+### [connected greenhouse](https://mygrowbox.fr/) 🌳
 Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
 
-# [currency conversion app](https://github.com/cdupic/suivi-depenses) 💱
+### [currency conversion app](https://github.com/cdupic/suivi-depenses) 💱
 App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
 
-# [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
+### [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
 Project during an internship to optimize a self-service at a Dassault Factory using [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel).
 
 </p>
@@ -47,7 +47,14 @@ ___
 
 ## Statistics GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&locale=en" alt="cdupic" /></p>
+<div style="display:flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&locale=en" alt="cdupic" />
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true" alt="Top Languages" />
+    </picture>
+</div>
 
 ___
 
