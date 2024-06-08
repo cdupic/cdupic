@@ -33,7 +33,7 @@ ___
 ### [connected greenhouse](https://mygrowbox.fr/) 🌳
 Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
 
-### [currency conversion app](https://github.com/cdupic/suivi-depenses) 💱
+### [currency conversion app](https://github.com/cdupic/convertisseur-monnaies) 💱
 App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
 
 ### [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
