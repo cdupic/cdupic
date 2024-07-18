@@ -2,7 +2,7 @@
 
 **`Student at Insa Lyon`**
 
-Currently in second year, I'm seeking for a computer science degree. Passionate about databases and data analysis, I try as much as possible to do cool projects to enhance my knowledge.
+Currently in first of a computer science degree, i'm interested in databases and data analysis and try as much as possible to do cool projects to enhance my knowledge.
 
 <p align="left">
     <a href="https://github.com/cdupic?tab=repositories&sort=stargazers">
