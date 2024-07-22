@@ -30,7 +30,7 @@ ___
 <details>
   <summary> Click to expand</summary>
 
-### [connected greenhouse](https://mygrowbox.fr/) 🌳
+### [connected greenhouse](https://github.com/cdupic/P2I-Growbox-Website) 🌳
 Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
 
 ### [currency conversion app](https://github.com/cdupic/convertisseur-monnaies) 💱
