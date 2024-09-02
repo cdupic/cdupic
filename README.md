@@ -38,7 +38,7 @@ Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com
 App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
 
 ### [Login UI](https://github.com/cdupic/LoginUI) :passport_control:
-Simple Login UI made using [CustomTkinter](https://customtkinter.tomschimansky.com)
+Simple Login UI made with [CustomTkinter](https://customtkinter.tomschimansky.com)
     
 ### [self-service Dassault](https://github.com/cdupic/libre-service-Dassault) ✈️
 Project during an internship to optimize a self-service at a Dassault Factory using [Openpyxl](https://openpyxl.readthedocs.io/en/stable/) and [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel).
