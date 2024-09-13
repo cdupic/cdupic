@@ -32,7 +32,7 @@ ___
 
     
 ### [connected greenhouse](https://github.com/cdupic/P2I-Growbox-Website) 🌳
-Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/ClementGre)
+Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/cdupic)
     
 ### [currency conversion app](https://github.com/cdupic/convertisseur-monnaies) 💱
 App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
@@ -52,20 +52,39 @@ ___
 
 ## Statistics GitHub
 
-<div style="display:flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&locale=en" alt="cdupic" />
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true" alt="Top Languages" />
-    </picture>
-</div>
+<p align="center">
+ 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&hide=contribs&hide_rank=true&line_height=24&card_width=100&hide_border=true&theme=white"
+      media="(prefers-color-scheme: white)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&hide=contribs&hide_rank=true&line_height=24&card_width=100&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=cdupic&show_icons=true&hide=contribs&hide_rank=true&line_height=24&card_width=100&hide_border=true" />
+  </picture>
+  <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true&theme=white"
+        media="(prefers-color-scheme: white)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdupic&layout=compact&hide_border=true" />
+  </picture>
+  <br>
 
-___
-
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=cdupic" alt="cdupic" />
+</p>
 
 ## Contact me
-<p align="left">
+<p align="center">
    <a href="mailto:clement.dupic@insa-lyon.fr">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white">
   </a>
