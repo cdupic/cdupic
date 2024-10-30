@@ -47,7 +47,8 @@ Project during an internship to optimize a self-service at a Dassault Factory us
 </p>
 </details>
 
-
+## 🎓 Certificates
+💻 [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/041d1fb6-e51f-435f-95ed-34c5db92e9e5) **(171/174)**
 ___
 
 ## Statistics GitHub
@@ -82,9 +83,6 @@ ___
   <br>
   <img src="https://komarev.com/ghpvc/?username=cdupic" alt="cdupic" />
 </p>
-
-## 🎓 Certificates
-💻 [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/041d1fb6-e51f-435f-95ed-34c5db92e9e5) **(171/174)**
 
 ## Contact me
 <p align="center">
