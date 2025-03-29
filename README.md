@@ -3,7 +3,7 @@
 **`Student at Insa Lyon`**
 
 Currently following a computer engineering degree, i'm for now learning skills concerning databases and data analysis and try as much as possible to do cool projects to enhance my knowledge.
-Personnal website :   [💻](https://cdupic.github.io/)
+
 
 <p align="left">
     <a href="https://github.com/cdupic?tab=repositories&sort=stargazers">
