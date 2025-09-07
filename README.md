@@ -2,7 +2,7 @@
 
 **`Student at Insa Lyon`**
 
-Currently following a computer engineering degree, i'm for now learning skills concerning databases and data analysis and try as much as possible to do cool projects to enhance my knowledge.
+Currently following a computer science degree, i'm for now learning skills concerning databases and data analysis and try as much as possible to do cool projects to enhance my knowledge.
 
 
 <p align="left">
@@ -35,7 +35,7 @@ ___
 
     
 ### [connected greenhouse](https://github.com/cdupic/P2I-Growbox-Website) 🌳
-Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/cdupic)
+Creation of an autonomous greenhouse with [Clement Grennerat](https://github.com/cgrennerat)
     
 ### [currency conversion app](https://github.com/cdupic/convertisseur-monnaies) 💱
 App created with [Tkinter](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel) to convert currencies based on the current rates using webscraping 
