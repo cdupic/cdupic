@@ -19,9 +19,16 @@ ___
 ### 🧰 Programming tools used
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Ts" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" />
 <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="BitBucket" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitLab" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 
 <br/><br/>
@@ -53,7 +60,9 @@ Project during an internship to optimize a self-service at a Dassault Factory us
 ---
 
 ## 🎓 Certificates
-💻 [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/041d1fb6-e51f-435f-95ed-34c5db92e9e5) **(171/174)**
+💻 [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/041d1fb6-e51f-435f-95ed-34c5db92e9e5) **(171/174)** 
+
+💻 [IMB Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/0IBJ9AQH16CW) 
 ___
 
 ## Statistics GitHub
