@@ -64,7 +64,7 @@ I'm a computer science student at INSA Lyon. I love exploring new technologies a
 
 ### ✈️ [Dassault Process Optimizer](https://github.com/cdupic/libre-service-Dassault)
 **Self-service workflow optimization**
-- Internship project at Dassault
+- During my (first) Internship at Dassault Aviation, side project
 - Excel automation with Openpyxl
 - Tkinter-based management interface
 
