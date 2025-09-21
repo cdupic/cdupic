@@ -16,7 +16,7 @@
 
 ##  About Me
 
-I'm a computer science student at INSA Lyon with a passion for building practical solutions that solve real-world problems. I love exploring new technologies and applying my skills through hands-on projects.
+I'm a computer science student at INSA Lyon. I love exploring new technologies and applying my skills through hands-on projects.
 
 - 🔭 Currently working on autonomous systems and web applications
 - 💡 Interested in data analysis, software engineering, and full-stack development
@@ -108,7 +108,7 @@ I'm a computer science student at INSA Lyon with a passion for building practica
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clement.dupic@insa-lyon.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cdupic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clement-dupic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/clement-dupic-961791345)
 
 </div>
 
