@@ -4,7 +4,7 @@
   
 **🎓 Computer Science Student at INSA Lyon**
 
-*Passionate about data analysis, software engineering, and full-stack development*
+*Passionate about data science*
 
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/cdupic?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/cdupic?tab=repositories&sort=stargazers)
 [![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/cdupic?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/cdupic?tab=followers)
@@ -19,7 +19,7 @@
 I'm a computer science student at INSA Lyon. I love exploring new technologies and applying my skills through hands-on projects.
 
 - 🔭 Currently working on autonomous systems and web applications
-- 💡 Interested in data analysis, software engineering, and full-stack development
+- 💡 Interested in data analysis
 
 
 ---
